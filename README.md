@@ -27,11 +27,6 @@ A production-ready Flutter application designed to demonstrate modern mobile dev
 
 ## Tech Stack
 * **Framework:** Flutter (Dart)
-* **Architecture:** MVC / Clean Architecture
-* **State Management:** Provider
-* **Networking:** http package
-* **Local Storage:** shared_preferences, flutter_secure_storage
-* **Key Libraries:** image_picker, share_plus, cached_network_image
 
 ## API Documentation
 This project interacts with the [DummyJSON Public API](https://dummyjson.com/docs/products):
@@ -64,6 +59,6 @@ This project interacts with the [DummyJSON Public API](https://dummyjson.com/doc
 
 ## Application Screenshots
 
-| Login & Auth | Product Catalog | Product Details | User Profile |
-|:---:|:---:|:---:|:---:|
+| Login | Register | Product Catalog | Product Details | User Profile | Share |
+|:---:|:---:|:---:|:---:|:---:|:---:|
 | ![Login](screenshots/login.png) | ![Register](screenshots/register.png) | ![Catalog](screenshots/product_list.png) | ![Details](screenshots/product_details.png) | ![Profile](screenshots/profile.png) | ![Share](screenshots/share.png) |
