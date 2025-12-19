@@ -1,6 +1,6 @@
 # Product Showcase Mobile App
 
-A production-ready Flutter application designed to demonstrate modern mobile development best practices. This project implements a complete e-commerce flow, featuring Authentication, REST API integration, State Management (Provider), and Local Persistence in a clean architecture.
+Product Showcase App is a Mobile application build using Flutter that demonstrates modern mobile development best practices. This project implements a complete e-commerce flow, featuring Authentication, REST API integration, State Management (Provider), and Local Persistence in a clean architecture.
 
 ## Features
 
